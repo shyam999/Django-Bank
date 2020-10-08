@@ -31,8 +31,4 @@ python manage.py runserver
 ```
 
 ## Where to find Me
-
-Like Me on [Facebook](https://www.facebook.com/shyam333445/)
-
-
-Or visit My [Website](https://shyam999.github.io)
+visit My [Website](https://shyam999.github.io)
