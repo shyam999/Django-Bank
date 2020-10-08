@@ -1,7 +1,8 @@
 # Paragon Bank
 > Banking System based on django 3.0
+## Demo:
+![](screenshot/bank.png)
 ## Installation:
-
 **1.Setup Virtualenv**
 ```sh
 virtualenv env
@@ -28,9 +29,6 @@ python manage.py createsuperuser
 ```sh
 python manage.py runserver
 ```
-# Screenshots:
-## Homepage:
-![](screenshot/bank.png)
 
 ## Where to find Me
 
