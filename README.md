@@ -1,5 +1,5 @@
 # Paragon Bank
-> Banking System based on Djangodesigned with Bootstrap
+> Banking System built on Django designed with Bootstrap
 ## Demo:
 ![](screenshot/bank.png)
 ## Installation:
