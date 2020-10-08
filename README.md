@@ -3,14 +3,14 @@
 ## Demo:
 ![](screenshot/bank.png)
 ## Installation:
-**1.Clone Repo & Setup Virtualenv**
+**1.Clone Repo**
 ```sh
 git clone https://github.com/shyam999/ParagonBank.git
+```
+**2.Setup Virtualenv & Install Requirements**
+```sh
 virtualenv env
 source env/bin/activate
-```
-**2.Install Requirements**
-```sh
 pip install -r requirements.txt
 ```
 **3.Migrate Database**
